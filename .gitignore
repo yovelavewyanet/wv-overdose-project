@@ -1,2 +1,4 @@
 desktop.ini
 .ipynb_checkpoints/
+.ipynb_checkpoints/
+__pycache__/
