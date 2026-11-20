@@ -13,4 +13,5 @@
 * Vivi added RQ1 chart and RQ2 plots for mental\_distress and mh\_providers\_rate
 * Yovela added outlier check (without McDowell) and 100-split cross-validation with baseline
 * Vivi added RMSE chart, fixed US rate label to 2023, and wrote RQ1 and RQ3 results (results\_vivi.md).
+* Yovela added outlier check and 100-split cross-validation, wrote RQ2 results and conclusion
 
